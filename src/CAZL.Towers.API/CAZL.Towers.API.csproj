@@ -10,4 +10,9 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CAZL.Towers.Data\CAZL.Towers.Data.csproj" />
+    <ProjectReference Include="..\CAZL.Towers.Services\CAZL.Towers.Services.csproj" />
+  </ItemGroup>
+
 </Project>
