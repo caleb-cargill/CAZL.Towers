@@ -14,4 +14,8 @@
     <PackageReference Include="Aspire.Hosting.AppHost" Version="9.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CAZL.Towers.API\CAZL.Towers.API.csproj" />
+  </ItemGroup>
+
 </Project>

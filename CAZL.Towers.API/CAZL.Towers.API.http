@@ -1,0 +1,6 @@
+@CAZL.Towers.API_HostAddress = http://localhost:5208
+
+GET {{CAZL.Towers.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

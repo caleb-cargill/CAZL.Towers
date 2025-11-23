@@ -1,4 +1,7 @@
 <Solution>
+  <Project Path="CAZL.Towers.API/CAZL.Towers.API.csproj" />
+  <Project Path="CAZL.Towers.Data/CAZL.Towers.Data.csproj" />
   <Project Path="CAZL.Towers.Domain/CAZL.Towers.Domain.csproj" />
+  <Project Path="CAZL.Towers.Services/CAZL.Towers.Services.csproj" />
   <Project Path="CAZL.Towers/CAZL.Towers.csproj" />
 </Solution>
