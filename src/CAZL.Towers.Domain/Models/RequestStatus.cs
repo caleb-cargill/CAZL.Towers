@@ -1,6 +1,6 @@
 ﻿namespace CAZL.Towers.Domain.Models;
 
-public class ExtensionPropertyType : EntityBase
+public class RequestStatus : EntityBase
 {
     public string Value { get; set; }
 }

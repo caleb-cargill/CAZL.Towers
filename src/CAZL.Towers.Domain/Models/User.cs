@@ -1,6 +1,8 @@
-﻿
-namespace CAZL.Towers.Domain.Models;
+﻿namespace CAZL.Towers.Domain.Models;
 
 public class User : EntityBase
 {
+    public string Name { get; set; }
+    public string Email { get; set; }
+    public string? PhoneNumber { get; set; }
 }

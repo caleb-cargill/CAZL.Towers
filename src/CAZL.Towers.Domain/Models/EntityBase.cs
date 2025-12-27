@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CAZL.Towers.Domain.Models;
+﻿namespace CAZL.Towers.Domain.Models;
 
 public class EntityBase : IEntity
 {
