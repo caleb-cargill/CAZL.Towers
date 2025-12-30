@@ -8,7 +8,7 @@ public interface IEntity
 {
     string Id { get; }
     string CreatedBy { get; }
-    string ModifiedBy { get; }
-    DateTime CreatedAt { get; }
-    DateTime ModifiedAt { get; }
+    string LastModifiedBy { get; }
+    DateTime CreatedOn { get; }
+    DateTime LastModifiedOn { get; }
 }
